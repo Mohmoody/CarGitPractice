@@ -8,6 +8,7 @@ public class main {
         audi.model="A8";
         audi.number="4545asfdg";
 String cases="test cases for the car color";
+        String some="something by other users";
 
 String access="access been added";
 String add="new updates been added";
