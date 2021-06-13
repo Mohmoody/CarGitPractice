@@ -7,6 +7,7 @@ public class main {
         audi.color="Red";
         audi.model="A8";
         audi.number="4545asfdg";
+String cases="test cases for the car color";
 
 
 
